@@ -1,2 +1,2 @@
-# erickfrancis.github.io
-Erick Francis Matias Oliveira
+# Projects
+[Erick Francis](https://erickfrancis.github.io) - About me
